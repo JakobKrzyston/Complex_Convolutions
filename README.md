@@ -1,8 +1,8 @@
 # Complex_Convolutions
-### Title:
+## Paper Title:
 Complex-Valued Convolutions for Modulation Recognition using Deep Learning
 
-### Submitted to:
+## Conference:
 2020 IEEE ICC: Open Workshop On Machine Learning In Communications. 
 
 ## Code
