@@ -15,4 +15,4 @@ python3 run.py --dataset RML2016 --data_directory <path_to_data> --train_pct 50 
 There is a Jupyter Notebook that trains the networks described in the paper as well as recreates all the plots used in the Results section.
 
 ## Data
-Data for this submission (RML2016.10b.tar.bz2) can be found at: https://www.deepsig.io/datasets. To ensure proper execution of the code, be sure the code is saved as 'RML2016.10a_dict.pkl'.
+Data for this submission (RML2016.10b.tar.bz2) can be found at: https://www.deepsig.io/datasets. To ensure proper execution of the code, be sure the data is saved as 'RML2016.10a_dict.pkl'.
