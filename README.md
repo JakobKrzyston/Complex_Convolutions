@@ -17,4 +17,4 @@ There is a Jupyter Notebook that trains the networks described in the paper as w
 *Disclaimer: All code is written in Keras
 
 ## Data
-Data for this submission (RML2016.10b.tar.bz2) can be found at: https://www.deepsig.io/datasets. To ensure proper execution of the code, be sure the data is saved as 'RML2016.10a_dict.pkl'.
+Data for this submission (RML2016.10a.tar.bz2) can be found at: https://www.deepsig.io/datasets. To ensure proper execution of the code, be sure the data is saved as 'RML2016.10a_dict.pkl'.
