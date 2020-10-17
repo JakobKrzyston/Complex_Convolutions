@@ -1,6 +1,6 @@
 # Complex Convolutions
 ## About
-This repository contains code to reproduce results for the submission titled, "Complex-Valued Convolutions for Modulation Recognition using Deep Learning" which was accepted into the 2020 IEEE ICC: Open Workshop On Machine Learning In Communications. 
+This repository contains code to reproduce results for the submission titled, "Complex-Valued Convolutions for Modulation Recognition using Deep Learning" which was published in the 2020 IEEE ICC: Open Workshop On Machine Learning In Communications. 
 
 ## Code
 ### Scripts
